@@ -1,5 +1,5 @@
-<h1 align="center"> Hi! 🥷 I'm Simar</h1>
-<h3 align="center">Self taught coder</h3>
+<h1 align="center"> Hi! I'm Simar 🥷 </h1>
+<h3 align="center">Understanding machines is a lot easier than understanding a person 🖤 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simardeepsingh-zsh&label=Profile%20views&color=0e75b6&style=flat" alt="simardeepsingh-zsh" /> </p>
 
