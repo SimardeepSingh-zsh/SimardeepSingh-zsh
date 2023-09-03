@@ -1,4 +1,4 @@
-<b>Hi! I'm Simar 🥷<br>Understanding machines is a lot easier than understanding a person 🖤
+<b>Hi! I'm Simar 🥷<br>
 
 
 ## 🌐 Socials:
