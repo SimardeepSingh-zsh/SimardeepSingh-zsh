@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simardeepsingh-zsh&label=Profile%20views&color=0e75b6&style=flat" alt="simardeepsingh-zsh" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
-"><img src="https://github-profile-trophy.vercel.app/?username=simardeepsingh-zsh" alt="simardeepsingh-zsh" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-matheme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=simardeepsingh-zsh" alt="simardeepsingh-zsh" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
