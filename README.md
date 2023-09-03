@@ -1,4 +1,59 @@
-<b>Hi! I'm Simar 🥷<br>
+<b><!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      background-color: black;
+      overflow: hidden;
+    }
+
+    .matrix-text {
+      font-family: 'Courier New', monospace;
+      color: green;
+      font-size: 20px;
+      position: absolute;
+      white-space: nowrap;
+    }
+
+    @keyframes matrixAnimation {
+      0% {
+        transform: translateY(0);
+      }
+      100% {
+        transform: translateY(-100%);
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="matrix-text">
+    <!-- Place your text here --> Hi! I'm Simar 🥷 <br>
+    Welcome to the Matrix!
+  </div>
+
+  <script>
+    // JavaScript code to create random Matrix-like characters
+    const textElement = document.querySelector('.matrix-text');
+    const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()_+[]{}|;:,.<>?';
+    const textLength = 100;
+
+    function generateRandomText() {
+      let result = '';
+      for (let i = 0; i < textLength; i++) {
+        const randomIndex = Math.floor(Math.random() * characters.length);
+        result += characters[randomIndex];
+      }
+      return result;
+    }
+
+    function updateMatrixText() {
+      textElement.textContent = generateRandomText();
+    }
+
+    setInterval(updateMatrixText, 100);
+  </script>
+</body>
+</html>
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
