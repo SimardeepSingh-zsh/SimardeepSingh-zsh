@@ -20,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simardeepsingh-zsh&show_icons=true&locale=en" alt="simardeepsingh-zsh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simardeepsingh-zsh&" alt="simardeepsingh-zsh" /></p>
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
