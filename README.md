@@ -10,5 +10,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SimardeepSingh-zsh&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
-<img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+<img align="center" alt="OnePiece_Luffy" src="https://pin.it/5ypCNVO"/>
 
