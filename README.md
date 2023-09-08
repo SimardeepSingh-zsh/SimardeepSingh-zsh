@@ -10,5 +10,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SimardeepSingh-zsh&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
-<img align="center" alt="OnePiece_Luffy" src="https://pin.it/5ypCNVO"/>
+<img align="center" alt="Devilman_Crybaby" src="https://www.pinterest.co.uk/pin/513691901249184054/"/>
 
