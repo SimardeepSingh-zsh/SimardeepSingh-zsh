@@ -10,5 +10,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SimardeepSingh-zsh&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
-<img align="center" alt="Devilman_Crybaby" src="https://github.com/SimardeepSingh-zsh/Devilman-Crybaby/blob/main/Akira%20Fudo%20_%20Wiki%20_%20Otanix%20Amino.gif"/>
+<img align="center" alt="Devilman_Crybaby" src="https://github.com/SimardeepSingh-zsh/Devilman-Crybaby/blob/main/cyberpunk-ghost-in-the-shell.gif"/>
 
