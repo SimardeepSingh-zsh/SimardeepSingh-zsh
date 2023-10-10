@@ -9,6 +9,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SimardeepSingh-zsh&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
+[![An image of @simardeepsinghzsh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/simardeepsinghzsh)](https://holopin.io/@simardeepsinghzsh)
+
 <img align="center" alt="Devilman_Crybaby" src="https://github.com/SimardeepSingh-zsh/Devilman-Crybaby/blob/main/cyberpunk-ghost-in-the-shell.gif"/>
 
 
