@@ -6,6 +6,11 @@
 
 [![An image of @simardeepsinghzsh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/simardeepsinghzsh)](https://holopin.io/@simardeepsinghzsh)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SimardeepSingh-zsh&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SimardeepSingh-zsh&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SimardeepSingh-zsh&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 <img align="center" alt="Devilman_Crybaby" src="https://github.com/SimardeepSingh-zsh/Devilman-Crybaby/blob/main/cyberpunk-ghost-in-the-shell.gif"/>
 
 
