@@ -16,6 +16,7 @@
 ## 🌐 Connect with Me
 
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white)](https://bsky.app/profile/simardeepsingh.bsky.social)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/1003simar)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/simardeepsingh)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?logo=hackthebox&logoColor=9FEF00)](https://account.hackthebox.com/simar10)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/29873878/simar)
