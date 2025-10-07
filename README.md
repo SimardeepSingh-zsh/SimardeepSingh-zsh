@@ -13,4 +13,22 @@
 
 <img align="center" alt="Devilman_Crybaby" src="https://github.com/SimardeepSingh-zsh/Devilman-Crybaby/blob/main/cyberpunk-ghost-in-the-shell.gif"/>
 
+## 🌐 Connect with Me
+
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white)](https://bsky.app/profile/simardeepsingh.bsky.social)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/simardeepsingh)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?logo=hackthebox&logoColor=9FEF00)](https://account.hackthebox.com/simar10)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/29873878/simar)
+[![n8n Community](https://img.shields.io/badge/n8n%20Community-F05A28?logo=n8n&logoColor=white)](https://community.n8n.io/u/simardeepsingh-zsh)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/simardeepsinghzsh)
+[![daily.dev](https://img.shields.io/badge/daily.dev-FF5722?logo=dailydotdev&logoColor=white)](https://app.daily.dev/simardeepsingh)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://app.docker.com/accounts/simarawsdocker)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@ETAUnicorn)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/simar_cloud)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/ETAUnicorn/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/simar.gg)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](https://www.patreon.com/c/simar10)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/simar10)
+
+
 
