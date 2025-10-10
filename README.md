@@ -24,7 +24,7 @@
 [![n8n Community](https://img.shields.io/badge/n8n%20Community-F05A28?logo=n8n&logoColor=white)](https://community.n8n.io/u/simardeepsingh-zsh)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/simardeepsinghzsh)
 [![daily.dev](https://img.shields.io/badge/daily.dev-FF5722?logo=dailydotdev&logoColor=white)](https://app.daily.dev/simardeepsingh)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@ETAUnicorn)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@ETAUnicorn滅)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/simar_cloud)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/ETAUnicorn/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/XNVNnUtc)
